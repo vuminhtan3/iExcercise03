@@ -3,11 +3,21 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 55;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		B49E257029F04EEF0027C9C7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E256F29F04EEF0027C9C7 /* main.swift */; };
+		B49E257729F04F040027C9C7 /* Bai1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E257629F04F040027C9C7 /* Bai1.swift */; };
+		B49E257929F051720027C9C7 /* Bai2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E257829F051720027C9C7 /* Bai2.swift */; };
+		B49E257B29F05AD10027C9C7 /* Bai3.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E257A29F05AD10027C9C7 /* Bai3.swift */; };
+		B49E257D29F05F180027C9C7 /* Bai4.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E257C29F05F180027C9C7 /* Bai4.swift */; };
+		B49E257F29F061580027C9C7 /* Bai5.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E257E29F061580027C9C7 /* Bai5.swift */; };
+		B49E258129F0625A0027C9C7 /* Bai6.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E258029F0625A0027C9C7 /* Bai6.swift */; };
+		B49E258329F065FB0027C9C7 /* Bai7.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E258229F065FB0027C9C7 /* Bai7.swift */; };
+		B49E258529F06BF30027C9C7 /* Bai8.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E258429F06BF30027C9C7 /* Bai8.swift */; };
+		B49E258729F06FBE0027C9C7 /* Bai9.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E258629F06FBE0027C9C7 /* Bai9.swift */; };
+		B49E258929F072720027C9C7 /* Bai10.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49E258829F072720027C9C7 /* Bai10.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +35,16 @@
 /* Begin PBXFileReference section */
 		B49E256C29F04EEF0027C9C7 /* Day3Homework */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Day3Homework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B49E256F29F04EEF0027C9C7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B49E257629F04F040027C9C7 /* Bai1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai1.swift; sourceTree = "<group>"; };
+		B49E257829F051720027C9C7 /* Bai2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai2.swift; sourceTree = "<group>"; };
+		B49E257A29F05AD10027C9C7 /* Bai3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai3.swift; sourceTree = "<group>"; };
+		B49E257C29F05F180027C9C7 /* Bai4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai4.swift; sourceTree = "<group>"; };
+		B49E257E29F061580027C9C7 /* Bai5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai5.swift; sourceTree = "<group>"; };
+		B49E258029F0625A0027C9C7 /* Bai6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai6.swift; sourceTree = "<group>"; };
+		B49E258229F065FB0027C9C7 /* Bai7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai7.swift; sourceTree = "<group>"; };
+		B49E258429F06BF30027C9C7 /* Bai8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai8.swift; sourceTree = "<group>"; };
+		B49E258629F06FBE0027C9C7 /* Bai9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai9.swift; sourceTree = "<group>"; };
+		B49E258829F072720027C9C7 /* Bai10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai10.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +78,16 @@
 			isa = PBXGroup;
 			children = (
 				B49E256F29F04EEF0027C9C7 /* main.swift */,
+				B49E257629F04F040027C9C7 /* Bai1.swift */,
+				B49E257829F051720027C9C7 /* Bai2.swift */,
+				B49E257A29F05AD10027C9C7 /* Bai3.swift */,
+				B49E257C29F05F180027C9C7 /* Bai4.swift */,
+				B49E257E29F061580027C9C7 /* Bai5.swift */,
+				B49E258029F0625A0027C9C7 /* Bai6.swift */,
+				B49E258229F065FB0027C9C7 /* Bai7.swift */,
+				B49E258429F06BF30027C9C7 /* Bai8.swift */,
+				B49E258629F06FBE0027C9C7 /* Bai9.swift */,
+				B49E258829F072720027C9C7 /* Bai10.swift */,
 			);
 			path = Day3Homework;
 			sourceTree = "<group>";
@@ -98,7 +128,7 @@
 				};
 			};
 			buildConfigurationList = B49E256729F04EEF0027C9C7 /* Build configuration list for PBXProject "Day3Homework" */;
-			compatibilityVersion = "Xcode 14.0";
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -120,6 +150,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B49E258329F065FB0027C9C7 /* Bai7.swift in Sources */,
+				B49E258129F0625A0027C9C7 /* Bai6.swift in Sources */,
+				B49E257B29F05AD10027C9C7 /* Bai3.swift in Sources */,
+				B49E257729F04F040027C9C7 /* Bai1.swift in Sources */,
+				B49E258929F072720027C9C7 /* Bai10.swift in Sources */,
+				B49E258529F06BF30027C9C7 /* Bai8.swift in Sources */,
+				B49E257929F051720027C9C7 /* Bai2.swift in Sources */,
+				B49E257D29F05F180027C9C7 /* Bai4.swift in Sources */,
+				B49E257F29F061580027C9C7 /* Bai5.swift in Sources */,
+				B49E258729F06FBE0027C9C7 /* Bai9.swift in Sources */,
 				B49E257029F04EEF0027C9C7 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
